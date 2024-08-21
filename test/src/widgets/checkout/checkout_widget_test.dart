@@ -1,10 +1,10 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_paystack/flutter_paystack.dart';
-import 'package:flutter_paystack/src/api/service/contracts/banks_service_contract.dart';
-import 'package:flutter_paystack/src/api/service/contracts/cards_service_contract.dart';
-import 'package:flutter_paystack/src/widgets/checkout/checkout_widget.dart';
+import 'package:flutter_paystack_mo/flutter_paystack.dart';
+import 'package:flutter_paystack_mo/src/api/service/contracts/banks_service_contract.dart';
+import 'package:flutter_paystack_mo/src/api/service/contracts/cards_service_contract.dart';
+import 'package:flutter_paystack_mo/src/widgets/checkout/checkout_widget.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 

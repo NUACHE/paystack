@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_paystack/src/common/my_strings.dart';
-import 'package:flutter_paystack/src/models/card.dart';
-import 'package:flutter_paystack/src/widgets/input/base_field.dart';
+import 'package:flutter_paystack_mo/src/common/my_strings.dart';
+import 'package:flutter_paystack_mo/src/models/card.dart';
+import 'package:flutter_paystack_mo/src/widgets/input/base_field.dart';
 
 class CVCField extends BaseTextField {
   CVCField({

@@ -1,5 +1,5 @@
-import 'package:flutter_paystack/flutter_paystack.dart';
-import 'package:flutter_paystack/src/common/card_utils.dart';
+import 'package:flutter_paystack_mo/flutter_paystack.dart';
+import 'package:flutter_paystack_mo/src/common/card_utils.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'case.dart';

@@ -1,7 +1,7 @@
-import 'package:flutter_paystack/src/common/my_strings.dart';
-import 'package:flutter_paystack/src/common/paystack.dart';
-import 'package:flutter_paystack/src/models/bank.dart';
-import 'package:flutter_paystack/src/models/card.dart';
+import 'package:flutter_paystack_mo/src/common/my_strings.dart';
+import 'package:flutter_paystack_mo/src/common/paystack.dart';
+import 'package:flutter_paystack_mo/src/models/bank.dart';
+import 'package:flutter_paystack_mo/src/models/card.dart';
 
 class CheckoutResponse {
   /// A user readable message. If the transaction was not successful, this returns the

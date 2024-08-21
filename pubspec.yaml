@@ -1,4 +1,4 @@
-name: flutter_paystack
+name: flutter_paystack_mo
 description: A Flutter plugin for making payments via Paystack Payment Gateway. Completely supports Android and iOS.
 version: 1.0.8
 homepage: https://github.com/NUACHE/paystack.git

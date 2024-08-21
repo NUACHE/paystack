@@ -1,4 +1,4 @@
-import 'package:flutter_paystack/src/api/model/transaction_api_response.dart';
+import 'package:flutter_paystack_mo/src/api/model/transaction_api_response.dart';
 
 class Transaction {
   String? _id;

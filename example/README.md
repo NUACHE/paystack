@@ -1,6 +1,6 @@
-# flutter_paystack_example
+# flutter_paystack_mo_example
 
-Demonstrates how to use the flutter_paystack plugin.
+Demonstrates how to use the flutter_paystack_mo plugin.
 
 ## Getting Started
 

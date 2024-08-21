@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_paystack/src/common/utils.dart';
+import 'package:flutter_paystack_mo/src/common/utils.dart';
 
 class CardMonthInputFormatter extends TextInputFormatter {
   String? previousText;

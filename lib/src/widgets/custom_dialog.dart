@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_paystack/src/widgets/common/extensions.dart';
+import 'package:flutter_paystack_mo/src/widgets/common/extensions.dart';
 
 /// This is a modification of [AlertDialog]. A lot of modifications was made. The goal is
 /// to retain the dialog feel and look while adding the close IconButton

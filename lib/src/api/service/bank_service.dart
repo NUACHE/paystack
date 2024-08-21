@@ -3,14 +3,14 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:async/async.dart';
-import 'package:flutter_paystack/src/api/model/transaction_api_response.dart';
-import 'package:flutter_paystack/src/api/request/bank_charge_request_body.dart';
-import 'package:flutter_paystack/src/api/service/base_service.dart';
-import 'package:flutter_paystack/src/api/service/contracts/banks_service_contract.dart';
-import 'package:flutter_paystack/src/common/exceptions.dart';
-import 'package:flutter_paystack/src/common/my_strings.dart';
-import 'package:flutter_paystack/src/models/bank.dart';
-import 'package:flutter_paystack/src/common/extensions.dart';
+import 'package:flutter_paystack_mo/src/api/model/transaction_api_response.dart';
+import 'package:flutter_paystack_mo/src/api/request/bank_charge_request_body.dart';
+import 'package:flutter_paystack_mo/src/api/service/base_service.dart';
+import 'package:flutter_paystack_mo/src/api/service/contracts/banks_service_contract.dart';
+import 'package:flutter_paystack_mo/src/common/exceptions.dart';
+import 'package:flutter_paystack_mo/src/common/my_strings.dart';
+import 'package:flutter_paystack_mo/src/models/bank.dart';
+import 'package:flutter_paystack_mo/src/common/extensions.dart';
 import 'package:http/http.dart' as http;
 
 class BankService with BaseApiService implements BankServiceContract {

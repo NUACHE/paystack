@@ -9,7 +9,7 @@
 }
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   FlutterMethodChannel* channel = [FlutterMethodChannel
-      methodChannelWithName:@"plugins.wilburt/flutter_paystack"
+      methodChannelWithName:@"plugins.wilburt/flutter_paystack_mo"
             binaryMessenger:[registrar messenger]];
     UIViewController *viewController =
     [UIApplication sharedApplication].delegate.window.rootViewController;

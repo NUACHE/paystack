@@ -1,6 +1,6 @@
-import 'package:flutter_paystack/src/api/request/base_request_body.dart';
-import 'package:flutter_paystack/src/models/bank.dart';
-import 'package:flutter_paystack/src/models/charge.dart';
+import 'package:flutter_paystack_mo/src/api/request/base_request_body.dart';
+import 'package:flutter_paystack_mo/src/models/bank.dart';
+import 'package:flutter_paystack_mo/src/models/charge.dart';
 
 class BankChargeRequestBody extends BaseRequestBody {
   String _accessCode;
